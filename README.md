@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Jean Brito 👋</h1>
 
 <p align="center">
-  Engenheiro de Dados Sênior | Especialista em DataOps, Nuvem e Observabilidade
+  Engenheiro de Dados | Especialista em DataOps, Nuvem e Observabilidade
 </p>
 
 <p align="center">
